@@ -9,3 +9,7 @@
 # Loop / Repeat / Iteration
 #กระบวนการทำการที่มีการทำงามเดิมๆ ซ้ำ ซ้ำกี่รอบก็ได้แต่ต้องรู้จบ
 # คำสั่ง while, for
+
+
+#break
+#continue
